@@ -3,22 +3,22 @@ import TestimonialCard from "./TestimonialCard";
 
 const peopleArr = [
   {
-    name: "Park Chaeyoung",
+    name: "Samantha R.",
     rating: "⭐⭐⭐⭐⭐",
     image: "/assets/girl2.jpg",
   },
   {
-    name: "Goo Yoo Jung",
+    name: "Missy A.",
     rating: "⭐⭐⭐⭐⭐",
     image: "/assets/girl1.jpg",
   },
   {
-    name: "Jung Hae In",
+    name: "Jae L.",
     rating: "⭐⭐⭐⭐⭐",
     image: "/assets/boy1.jpg",
   },
   {
-    name: "Kim Jisoo",
+    name: "Kristin P.",
     rating: "⭐⭐⭐⭐⭐",
     image: "/assets/girl3.jpg",
   },

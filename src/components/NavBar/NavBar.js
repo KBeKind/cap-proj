@@ -20,7 +20,6 @@ const NavBar = () => {
         {/* NavLink Component */}
         <NavLinkFn location="/" label="Home" type="horizontal" />
         <NavLinkFn location="about" label="About" type="horizontal" />
-        <NavLinkFn location="menu" label="Menu" type="horizontal" />
         <NavLinkFn location="booking" label="Reservations" type="horizontal" />
         <NavLinkFn location="order" label="Order Online" type="horizontal" />
         <NavLinkFn location="login" label="Login" type="horizontal" />
@@ -57,12 +56,6 @@ const NavBar = () => {
           <NavLinkFn
             location="about"
             label="About"
-            type="vertical"
-            onClick={() => setShowNav((prev) => !prev)}
-          />
-          <NavLinkFn
-            location="menu"
-            label="Menu"
             type="vertical"
             onClick={() => setShowNav((prev) => !prev)}
           />
